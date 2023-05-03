@@ -1,4 +1,5 @@
-import Header from "./Component/Header";
+import Header from './Component/Header';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 function App() {
   return (
